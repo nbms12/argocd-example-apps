@@ -10,9 +10,14 @@ create new namespace and install argocd
 2.kubectl apply -n argocd -f https://raw.githubusercontent.com/argoproj/argo-cd/stable/manifests/install.yaml
 
 
-3) check services in argocd namespace
+3. check services in argocd namespace
 
     ![image](https://github.com/user-attachments/assets/aa67f4cf-9b54-4586-9480-67d98a73a49d)
 
 
-4)
+4. edit argocd port type as NodePort
+
+  ![image](https://github.com/user-attachments/assets/88c18ccb-19de-4beb-b7f2-f7b9dda36ab7)
+
+
+5.
