@@ -6,6 +6,7 @@ cluster.
 create new namespace and install argocd 
 
 1.kubectl create namespace argocd
+
 2.kubectl apply -n argocd -f https://raw.githubusercontent.com/argoproj/argo-cd/stable/manifests/install.yaml
 
 
