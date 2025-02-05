@@ -27,7 +27,8 @@ create new namespace and install argocd
   ![image](https://github.com/user-attachments/assets/40761279-0fbe-488a-99f9-ebb7a0bfa262)
 
 
-  ![image](https://github.com/user-attachments/assets/d4293773-3b6d-4b97-be4c-4c396f1113a1)
+ ![image](https://github.com/user-attachments/assets/1f853a05-a272-4837-a196-00da68ce6c15)
+
 
 
 
