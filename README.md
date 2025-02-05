@@ -15,10 +15,19 @@ create new namespace and install argocd
     ![image](https://github.com/user-attachments/assets/aa67f4cf-9b54-4586-9480-67d98a73a49d)
 
 
-4. create app in argocd web ui
+4. create app in argocd web ui ( keep auto sync ) 
 
 
    ![image](https://github.com/user-attachments/assets/9fb19ac9-f62e-4df6-95e2-e61b6e0ed8f0)
+
+
+  ![image](https://github.com/user-attachments/assets/bfada64c-e6f7-458c-89da-7d9322d97462)
+
+
+  ![image](https://github.com/user-attachments/assets/40761279-0fbe-488a-99f9-ebb7a0bfa262)
+
+
+  ![image](https://github.com/user-attachments/assets/d4293773-3b6d-4b97-be4c-4c396f1113a1)
 
 
 
