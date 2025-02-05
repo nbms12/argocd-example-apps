@@ -15,7 +15,16 @@ create new namespace and install argocd
     ![image](https://github.com/user-attachments/assets/aa67f4cf-9b54-4586-9480-67d98a73a49d)
 
 
-4. edit argocd port type as NodePort instead of cluster type 
+4. create app in argocd web ui
+
+
+   ![image](https://github.com/user-attachments/assets/9fb19ac9-f62e-4df6-95e2-e61b6e0ed8f0)
+
+
+
+
+
+6. edit argocd port type as NodePort instead of cluster type 
 
   ![image](https://github.com/user-attachments/assets/88c18ccb-19de-4beb-b7f2-f7b9dda36ab7)
 
